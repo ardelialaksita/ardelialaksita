@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ardelialaksita
 - 👀 I’m interested in Data Analytics, Artificial Intelligence, Machine Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I wanna have a focus on Data Analyst 
+- 💞️ I wanna have a focus on Data Scientist
 - 📫 How to reach me? laksitaardelia@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: currently join a machine learning competition and suddenly interested in :D
